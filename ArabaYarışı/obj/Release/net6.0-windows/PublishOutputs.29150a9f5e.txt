@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\ders iki\ArabaYarışı.exe
+C:\Users\USER\Desktop\ders iki\ArabaYarışı.dll
+C:\Users\USER\Desktop\ders iki\ArabaYarışı.deps.json
+C:\Users\USER\Desktop\ders iki\ArabaYarışı.runtimeconfig.json
+C:\Users\USER\Desktop\ders iki\ArabaYarışı.pdb
